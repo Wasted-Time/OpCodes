@@ -5,6 +5,9 @@
 Full ? OpCodes EU >> 
 Extract all files in >>> Proxy/Data/opcodes
 Restart proxy
+#
+#https://github.com/Wasted-Time/OpCodes/issues/1
+#
 Have Fun
 
 Best Regards to EasyDevb<<
